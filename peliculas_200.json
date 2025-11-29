@@ -1,0 +1,1602 @@
+[
+  {
+    "id": 1,
+    "titulo": "Pelicula 123",
+    "director": "Director 91",
+    "ano": 1968,
+    "duracion": 157,
+    "rating": 2.9
+  },
+  {
+    "id": 2,
+    "titulo": "Pelicula 59",
+    "director": "Director 165",
+    "ano": 1983,
+    "duracion": 95,
+    "rating": 4.4
+  },
+  {
+    "id": 3,
+    "titulo": "Pelicula 61",
+    "director": "Director 138",
+    "ano": 1966,
+    "duracion": 138,
+    "rating": 6.8
+  },
+  {
+    "id": 4,
+    "titulo": "Pelicula 176",
+    "director": "Director 2",
+    "ano": 1995,
+    "duracion": 143,
+    "rating": 1.5
+  },
+  {
+    "id": 5,
+    "titulo": "Pelicula 119",
+    "director": "Director 57",
+    "ano": 2014,
+    "duracion": 95,
+    "rating": 7.4
+  },
+  {
+    "id": 6,
+    "titulo": "Pelicula 173",
+    "director": "Director 131",
+    "ano": 1969,
+    "duracion": 168,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "titulo": "Pelicula 145",
+    "director": "Director 36",
+    "ano": 2019,
+    "duracion": 159,
+    "rating": 8.2
+  },
+  {
+    "id": 8,
+    "titulo": "Pelicula 101",
+    "director": "Director 134",
+    "ano": 1975,
+    "duracion": 149,
+    "rating": 9.0
+  },
+  {
+    "id": 9,
+    "titulo": "Pelicula 171",
+    "director": "Director 88",
+    "ano": 2009,
+    "duracion": 155,
+    "rating": 8.4
+  },
+  {
+    "id": 10,
+    "titulo": "Pelicula 3",
+    "director": "Director 195",
+    "ano": 2008,
+    "duracion": 191,
+    "rating": 9.2
+  },
+  {
+    "id": 11,
+    "titulo": "Pelicula 154",
+    "director": "Director 140",
+    "ano": 1973,
+    "duracion": 78,
+    "rating": 3.1
+  },
+  {
+    "id": 12,
+    "titulo": "Pelicula 88",
+    "director": "Director 153",
+    "ano": 1970,
+    "duracion": 127,
+    "rating": 3.4
+  },
+  {
+    "id": 13,
+    "titulo": "Pelicula 127",
+    "director": "Director 144",
+    "ano": 1991,
+    "duracion": 158,
+    "rating": 6.1
+  },
+  {
+    "id": 14,
+    "titulo": "Pelicula 168",
+    "director": "Director 188",
+    "ano": 2020,
+    "duracion": 183,
+    "rating": 1.9
+  },
+  {
+    "id": 15,
+    "titulo": "Pelicula 57",
+    "director": "Director 120",
+    "ano": 1982,
+    "duracion": 114,
+    "rating": 6.5
+  },
+  {
+    "id": 16,
+    "titulo": "Pelicula 34",
+    "director": "Director 9",
+    "ano": 1950,
+    "duracion": 77,
+    "rating": 9.0
+  },
+  {
+    "id": 17,
+    "titulo": "Pelicula 51",
+    "director": "Director 13",
+    "ano": 2022,
+    "duracion": 198,
+    "rating": 6.7
+  },
+  {
+    "id": 18,
+    "titulo": "Pelicula 108",
+    "director": "Director 1",
+    "ano": 1992,
+    "duracion": 175,
+    "rating": 1.0
+  },
+  {
+    "id": 19,
+    "titulo": "Pelicula 160",
+    "director": "Director 4",
+    "ano": 1982,
+    "duracion": 144,
+    "rating": 9.1
+  },
+  {
+    "id": 20,
+    "titulo": "Pelicula 131",
+    "director": "Director 113",
+    "ano": 2001,
+    "duracion": 186,
+    "rating": 2.7
+  },
+  {
+    "id": 21,
+    "titulo": "Pelicula 15",
+    "director": "Director 170",
+    "ano": 1968,
+    "duracion": 116,
+    "rating": 5.6
+  },
+  {
+    "id": 22,
+    "titulo": "Pelicula 157",
+    "director": "Director 8",
+    "ano": 1967,
+    "duracion": 117,
+    "rating": 7.9
+  },
+  {
+    "id": 23,
+    "titulo": "Pelicula 84",
+    "director": "Director 6",
+    "ano": 1992,
+    "duracion": 147,
+    "rating": 2.4
+  },
+  {
+    "id": 24,
+    "titulo": "Pelicula 114",
+    "director": "Director 193",
+    "ano": 2021,
+    "duracion": 73,
+    "rating": 2.3
+  },
+  {
+    "id": 25,
+    "titulo": "Pelicula 75",
+    "director": "Director 192",
+    "ano": 1980,
+    "duracion": 110,
+    "rating": 4.2
+  },
+  {
+    "id": 26,
+    "titulo": "Pelicula 196",
+    "director": "Director 50",
+    "ano": 2002,
+    "duracion": 177,
+    "rating": 3.1
+  },
+  {
+    "id": 27,
+    "titulo": "Pelicula 27",
+    "director": "Director 12",
+    "ano": 1952,
+    "duracion": 98,
+    "rating": 8.4
+  },
+  {
+    "id": 28,
+    "titulo": "Pelicula 120",
+    "director": "Director 43",
+    "ano": 2010,
+    "duracion": 153,
+    "rating": 4.6
+  },
+  {
+    "id": 29,
+    "titulo": "Pelicula 97",
+    "director": "Director 51",
+    "ano": 2005,
+    "duracion": 169,
+    "rating": 8.6
+  },
+  {
+    "id": 30,
+    "titulo": "Pelicula 182",
+    "director": "Director 119",
+    "ano": 1955,
+    "duracion": 96,
+    "rating": 9.4
+  },
+  {
+    "id": 31,
+    "titulo": "Pelicula 39",
+    "director": "Director 103",
+    "ano": 1956,
+    "duracion": 150,
+    "rating": 9.9
+  },
+  {
+    "id": 32,
+    "titulo": "Pelicula 23",
+    "director": "Director 18",
+    "ano": 1952,
+    "duracion": 103,
+    "rating": 7.0
+  },
+  {
+    "id": 33,
+    "titulo": "Pelicula 174",
+    "director": "Director 122",
+    "ano": 2017,
+    "duracion": 200,
+    "rating": 8.4
+  },
+  {
+    "id": 34,
+    "titulo": "Pelicula 68",
+    "director": "Director 179",
+    "ano": 1956,
+    "duracion": 147,
+    "rating": 2.3
+  },
+  {
+    "id": 35,
+    "titulo": "Pelicula 152",
+    "director": "Director 123",
+    "ano": 1977,
+    "duracion": 81,
+    "rating": 9.2
+  },
+  {
+    "id": 36,
+    "titulo": "Pelicula 80",
+    "director": "Director 115",
+    "ano": 2000,
+    "duracion": 184,
+    "rating": 7.6
+  },
+  {
+    "id": 37,
+    "titulo": "Pelicula 70",
+    "director": "Director 198",
+    "ano": 1977,
+    "duracion": 70,
+    "rating": 1.9
+  },
+  {
+    "id": 38,
+    "titulo": "Pelicula 58",
+    "director": "Director 167",
+    "ano": 2020,
+    "duracion": 95,
+    "rating": 7.1
+  },
+  {
+    "id": 39,
+    "titulo": "Pelicula 1",
+    "director": "Director 139",
+    "ano": 1962,
+    "duracion": 108,
+    "rating": 7.4
+  },
+  {
+    "id": 40,
+    "titulo": "Pelicula 72",
+    "director": "Director 97",
+    "ano": 2010,
+    "duracion": 110,
+    "rating": 4.9
+  },
+  {
+    "id": 41,
+    "titulo": "Pelicula 169",
+    "director": "Director 129",
+    "ano": 1998,
+    "duracion": 114,
+    "rating": 7.5
+  },
+  {
+    "id": 42,
+    "titulo": "Pelicula 185",
+    "director": "Director 190",
+    "ano": 2016,
+    "duracion": 126,
+    "rating": 3.2
+  },
+  {
+    "id": 43,
+    "titulo": "Pelicula 93",
+    "director": "Director 15",
+    "ano": 2016,
+    "duracion": 74,
+    "rating": 4.2
+  },
+  {
+    "id": 44,
+    "titulo": "Pelicula 137",
+    "director": "Director 157",
+    "ano": 2005,
+    "duracion": 182,
+    "rating": 9.2
+  },
+  {
+    "id": 45,
+    "titulo": "Pelicula 178",
+    "director": "Director 46",
+    "ano": 1995,
+    "duracion": 141,
+    "rating": 3.1
+  },
+  {
+    "id": 46,
+    "titulo": "Pelicula 159",
+    "director": "Director 98",
+    "ano": 1986,
+    "duracion": 164,
+    "rating": 5.6
+  },
+  {
+    "id": 47,
+    "titulo": "Pelicula 104",
+    "director": "Director 73",
+    "ano": 2021,
+    "duracion": 72,
+    "rating": 9.6
+  },
+  {
+    "id": 48,
+    "titulo": "Pelicula 35",
+    "director": "Director 75",
+    "ano": 1968,
+    "duracion": 134,
+    "rating": 8.0
+  },
+  {
+    "id": 49,
+    "titulo": "Pelicula 100",
+    "director": "Director 185",
+    "ano": 2006,
+    "duracion": 94,
+    "rating": 8.1
+  },
+  {
+    "id": 50,
+    "titulo": "Pelicula 67",
+    "director": "Director 96",
+    "ano": 1952,
+    "duracion": 110,
+    "rating": 3.4
+  },
+  {
+    "id": 51,
+    "titulo": "Pelicula 162",
+    "director": "Director 156",
+    "ano": 2006,
+    "duracion": 98,
+    "rating": 9.1
+  },
+  {
+    "id": 52,
+    "titulo": "Pelicula 186",
+    "director": "Director 147",
+    "ano": 2019,
+    "duracion": 140,
+    "rating": 4.1
+  },
+  {
+    "id": 53,
+    "titulo": "Pelicula 16",
+    "director": "Director 137",
+    "ano": 1972,
+    "duracion": 141,
+    "rating": 3.6
+  },
+  {
+    "id": 54,
+    "titulo": "Pelicula 156",
+    "director": "Director 53",
+    "ano": 2010,
+    "duracion": 140,
+    "rating": 8.6
+  },
+  {
+    "id": 55,
+    "titulo": "Pelicula 83",
+    "director": "Director 109",
+    "ano": 2007,
+    "duracion": 164,
+    "rating": 2.8
+  },
+  {
+    "id": 56,
+    "titulo": "Pelicula 135",
+    "director": "Director 181",
+    "ano": 2016,
+    "duracion": 148,
+    "rating": 2.9
+  },
+  {
+    "id": 57,
+    "titulo": "Pelicula 48",
+    "director": "Director 164",
+    "ano": 2019,
+    "duracion": 162,
+    "rating": 5.5
+  },
+  {
+    "id": 58,
+    "titulo": "Pelicula 179",
+    "director": "Director 121",
+    "ano": 1990,
+    "duracion": 200,
+    "rating": 5.9
+  },
+  {
+    "id": 59,
+    "titulo": "Pelicula 77",
+    "director": "Director 127",
+    "ano": 1964,
+    "duracion": 194,
+    "rating": 5.4
+  },
+  {
+    "id": 60,
+    "titulo": "Pelicula 118",
+    "director": "Director 90",
+    "ano": 2021,
+    "duracion": 193,
+    "rating": 4.3
+  },
+  {
+    "id": 61,
+    "titulo": "Pelicula 144",
+    "director": "Director 175",
+    "ano": 1960,
+    "duracion": 153,
+    "rating": 4.7
+  },
+  {
+    "id": 62,
+    "titulo": "Pelicula 175",
+    "director": "Director 47",
+    "ano": 2011,
+    "duracion": 125,
+    "rating": 4.4
+  },
+  {
+    "id": 63,
+    "titulo": "Pelicula 107",
+    "director": "Director 126",
+    "ano": 1950,
+    "duracion": 113,
+    "rating": 4.7
+  },
+  {
+    "id": 64,
+    "titulo": "Pelicula 43",
+    "director": "Director 116",
+    "ano": 2017,
+    "duracion": 97,
+    "rating": 1.4
+  },
+  {
+    "id": 65,
+    "titulo": "Pelicula 167",
+    "director": "Director 32",
+    "ano": 2001,
+    "duracion": 183,
+    "rating": 2.2
+  },
+  {
+    "id": 66,
+    "titulo": "Pelicula 199",
+    "director": "Director 125",
+    "ano": 1993,
+    "duracion": 137,
+    "rating": 8.0
+  },
+  {
+    "id": 67,
+    "titulo": "Pelicula 126",
+    "director": "Director 37",
+    "ano": 1976,
+    "duracion": 127,
+    "rating": 6.0
+  },
+  {
+    "id": 68,
+    "titulo": "Pelicula 44",
+    "director": "Director 149",
+    "ano": 2016,
+    "duracion": 79,
+    "rating": 7.4
+  },
+  {
+    "id": 69,
+    "titulo": "Pelicula 6",
+    "director": "Director 111",
+    "ano": 1975,
+    "duracion": 85,
+    "rating": 6.5
+  },
+  {
+    "id": 70,
+    "titulo": "Pelicula 188",
+    "director": "Director 172",
+    "ano": 1990,
+    "duracion": 194,
+    "rating": 9.3
+  },
+  {
+    "id": 71,
+    "titulo": "Pelicula 82",
+    "director": "Director 76",
+    "ano": 2016,
+    "duracion": 121,
+    "rating": 9.8
+  },
+  {
+    "id": 72,
+    "titulo": "Pelicula 128",
+    "director": "Director 68",
+    "ano": 1988,
+    "duracion": 159,
+    "rating": 4.4
+  },
+  {
+    "id": 73,
+    "titulo": "Pelicula 12",
+    "director": "Director 141",
+    "ano": 1966,
+    "duracion": 181,
+    "rating": 6.1
+  },
+  {
+    "id": 74,
+    "titulo": "Pelicula 129",
+    "director": "Director 99",
+    "ano": 1967,
+    "duracion": 175,
+    "rating": 8.3
+  },
+  {
+    "id": 75,
+    "titulo": "Pelicula 63",
+    "director": "Director 178",
+    "ano": 1991,
+    "duracion": 83,
+    "rating": 8.1
+  },
+  {
+    "id": 76,
+    "titulo": "Pelicula 42",
+    "director": "Director 112",
+    "ano": 1992,
+    "duracion": 74,
+    "rating": 6.5
+  },
+  {
+    "id": 77,
+    "titulo": "Pelicula 183",
+    "director": "Director 93",
+    "ano": 1968,
+    "duracion": 186,
+    "rating": 7.9
+  },
+  {
+    "id": 78,
+    "titulo": "Pelicula 79",
+    "director": "Director 78",
+    "ano": 1982,
+    "duracion": 190,
+    "rating": 4.6
+  },
+  {
+    "id": 79,
+    "titulo": "Pelicula 190",
+    "director": "Director 22",
+    "ano": 2022,
+    "duracion": 126,
+    "rating": 3.2
+  },
+  {
+    "id": 80,
+    "titulo": "Pelicula 71",
+    "director": "Director 171",
+    "ano": 1990,
+    "duracion": 79,
+    "rating": 6.0
+  },
+  {
+    "id": 81,
+    "titulo": "Pelicula 37",
+    "director": "Director 23",
+    "ano": 1966,
+    "duracion": 136,
+    "rating": 7.6
+  },
+  {
+    "id": 82,
+    "titulo": "Pelicula 164",
+    "director": "Director 101",
+    "ano": 1983,
+    "duracion": 173,
+    "rating": 8.3
+  },
+  {
+    "id": 83,
+    "titulo": "Pelicula 76",
+    "director": "Director 70",
+    "ano": 1996,
+    "duracion": 73,
+    "rating": 7.4
+  },
+  {
+    "id": 84,
+    "titulo": "Pelicula 13",
+    "director": "Director 52",
+    "ano": 1998,
+    "duracion": 161,
+    "rating": 3.5
+  },
+  {
+    "id": 85,
+    "titulo": "Pelicula 38",
+    "director": "Director 92",
+    "ano": 1980,
+    "duracion": 179,
+    "rating": 9.6
+  },
+  {
+    "id": 86,
+    "titulo": "Pelicula 98",
+    "director": "Director 61",
+    "ano": 2007,
+    "duracion": 129,
+    "rating": 4.4
+  },
+  {
+    "id": 87,
+    "titulo": "Pelicula 142",
+    "director": "Director 110",
+    "ano": 1956,
+    "duracion": 140,
+    "rating": 4.5
+  },
+  {
+    "id": 88,
+    "titulo": "Pelicula 139",
+    "director": "Director 135",
+    "ano": 1975,
+    "duracion": 192,
+    "rating": 8.3
+  },
+  {
+    "id": 89,
+    "titulo": "Pelicula 36",
+    "director": "Director 55",
+    "ano": 1979,
+    "duracion": 105,
+    "rating": 6.0
+  },
+  {
+    "id": 90,
+    "titulo": "Pelicula 91",
+    "director": "Director 108",
+    "ano": 2009,
+    "duracion": 188,
+    "rating": 6.7
+  },
+  {
+    "id": 91,
+    "titulo": "Pelicula 197",
+    "director": "Director 63",
+    "ano": 1983,
+    "duracion": 176,
+    "rating": 5.0
+  },
+  {
+    "id": 92,
+    "titulo": "Pelicula 125",
+    "director": "Director 16",
+    "ano": 2012,
+    "duracion": 198,
+    "rating": 2.7
+  },
+  {
+    "id": 93,
+    "titulo": "Pelicula 170",
+    "director": "Director 31",
+    "ano": 1981,
+    "duracion": 125,
+    "rating": 7.9
+  },
+  {
+    "id": 94,
+    "titulo": "Pelicula 55",
+    "director": "Director 145",
+    "ano": 1962,
+    "duracion": 169,
+    "rating": 8.0
+  },
+  {
+    "id": 95,
+    "titulo": "Pelicula 33",
+    "director": "Director 84",
+    "ano": 2024,
+    "duracion": 146,
+    "rating": 1.6
+  },
+  {
+    "id": 96,
+    "titulo": "Pelicula 69",
+    "director": "Director 3",
+    "ano": 1983,
+    "duracion": 115,
+    "rating": 2.0
+  },
+  {
+    "id": 97,
+    "titulo": "Pelicula 10",
+    "director": "Director 25",
+    "ano": 1984,
+    "duracion": 154,
+    "rating": 3.0
+  },
+  {
+    "id": 98,
+    "titulo": "Pelicula 53",
+    "director": "Director 44",
+    "ano": 2005,
+    "duracion": 102,
+    "rating": 7.7
+  },
+  {
+    "id": 99,
+    "titulo": "Pelicula 195",
+    "director": "Director 177",
+    "ano": 1959,
+    "duracion": 145,
+    "rating": 8.0
+  },
+  {
+    "id": 100,
+    "titulo": "Pelicula 41",
+    "director": "Director 176",
+    "ano": 1978,
+    "duracion": 75,
+    "rating": 2.6
+  },
+  {
+    "id": 101,
+    "titulo": "Pelicula 24",
+    "director": "Director 21",
+    "ano": 1952,
+    "duracion": 155,
+    "rating": 4.0
+  },
+  {
+    "id": 102,
+    "titulo": "Pelicula 11",
+    "director": "Director 66",
+    "ano": 2006,
+    "duracion": 134,
+    "rating": 7.9
+  },
+  {
+    "id": 103,
+    "titulo": "Pelicula 25",
+    "director": "Director 194",
+    "ano": 1968,
+    "duracion": 192,
+    "rating": 6.5
+  },
+  {
+    "id": 104,
+    "titulo": "Pelicula 130",
+    "director": "Director 82",
+    "ano": 2022,
+    "duracion": 126,
+    "rating": 3.3
+  },
+  {
+    "id": 105,
+    "titulo": "Pelicula 17",
+    "director": "Director 180",
+    "ano": 2003,
+    "duracion": 195,
+    "rating": 2.9
+  },
+  {
+    "id": 106,
+    "titulo": "Pelicula 14",
+    "director": "Director 142",
+    "ano": 1990,
+    "duracion": 162,
+    "rating": 3.4
+  },
+  {
+    "id": 107,
+    "titulo": "Pelicula 166",
+    "director": "Director 106",
+    "ano": 1977,
+    "duracion": 184,
+    "rating": 6.7
+  },
+  {
+    "id": 108,
+    "titulo": "Pelicula 141",
+    "director": "Director 56",
+    "ano": 2024,
+    "duracion": 118,
+    "rating": 6.4
+  },
+  {
+    "id": 109,
+    "titulo": "Pelicula 193",
+    "director": "Director 105",
+    "ano": 1970,
+    "duracion": 129,
+    "rating": 4.3
+  },
+  {
+    "id": 110,
+    "titulo": "Pelicula 31",
+    "director": "Director 159",
+    "ano": 1964,
+    "duracion": 108,
+    "rating": 9.3
+  },
+  {
+    "id": 111,
+    "titulo": "Pelicula 148",
+    "director": "Director 83",
+    "ano": 1989,
+    "duracion": 160,
+    "rating": 9.6
+  },
+  {
+    "id": 112,
+    "titulo": "Pelicula 95",
+    "director": "Director 128",
+    "ano": 1999,
+    "duracion": 190,
+    "rating": 7.8
+  },
+  {
+    "id": 113,
+    "titulo": "Pelicula 21",
+    "director": "Director 173",
+    "ano": 2015,
+    "duracion": 193,
+    "rating": 8.2
+  },
+  {
+    "id": 114,
+    "titulo": "Pelicula 74",
+    "director": "Director 100",
+    "ano": 2022,
+    "duracion": 104,
+    "rating": 2.8
+  },
+  {
+    "id": 115,
+    "titulo": "Pelicula 109",
+    "director": "Director 86",
+    "ano": 2010,
+    "duracion": 126,
+    "rating": 1.1
+  },
+  {
+    "id": 116,
+    "titulo": "Pelicula 62",
+    "director": "Director 7",
+    "ano": 2020,
+    "duracion": 70,
+    "rating": 6.9
+  },
+  {
+    "id": 117,
+    "titulo": "Pelicula 40",
+    "director": "Director 146",
+    "ano": 1956,
+    "duracion": 182,
+    "rating": 3.2
+  },
+  {
+    "id": 118,
+    "titulo": "Pelicula 47",
+    "director": "Director 30",
+    "ano": 1998,
+    "duracion": 156,
+    "rating": 6.4
+  },
+  {
+    "id": 119,
+    "titulo": "Pelicula 2",
+    "director": "Director 196",
+    "ano": 1999,
+    "duracion": 180,
+    "rating": 5.6
+  },
+  {
+    "id": 120,
+    "titulo": "Pelicula 177",
+    "director": "Director 48",
+    "ano": 1975,
+    "duracion": 148,
+    "rating": 7.8
+  },
+  {
+    "id": 121,
+    "titulo": "Pelicula 140",
+    "director": "Director 20",
+    "ano": 2018,
+    "duracion": 146,
+    "rating": 2.7
+  },
+  {
+    "id": 122,
+    "titulo": "Pelicula 54",
+    "director": "Director 189",
+    "ano": 2019,
+    "duracion": 119,
+    "rating": 8.4
+  },
+  {
+    "id": 123,
+    "titulo": "Pelicula 198",
+    "director": "Director 39",
+    "ano": 2008,
+    "duracion": 123,
+    "rating": 2.5
+  },
+  {
+    "id": 124,
+    "titulo": "Pelicula 187",
+    "director": "Director 33",
+    "ano": 2019,
+    "duracion": 137,
+    "rating": 5.5
+  },
+  {
+    "id": 125,
+    "titulo": "Pelicula 133",
+    "director": "Director 132",
+    "ano": 1975,
+    "duracion": 96,
+    "rating": 6.2
+  },
+  {
+    "id": 126,
+    "titulo": "Pelicula 146",
+    "director": "Director 64",
+    "ano": 1966,
+    "duracion": 84,
+    "rating": 7.4
+  },
+  {
+    "id": 127,
+    "titulo": "Pelicula 28",
+    "director": "Director 118",
+    "ano": 1997,
+    "duracion": 149,
+    "rating": 7.1
+  },
+  {
+    "id": 128,
+    "titulo": "Pelicula 66",
+    "director": "Director 169",
+    "ano": 1971,
+    "duracion": 177,
+    "rating": 1.4
+  },
+  {
+    "id": 129,
+    "titulo": "Pelicula 106",
+    "director": "Director 162",
+    "ano": 1995,
+    "duracion": 121,
+    "rating": 4.9
+  },
+  {
+    "id": 130,
+    "titulo": "Pelicula 92",
+    "director": "Director 143",
+    "ano": 2023,
+    "duracion": 176,
+    "rating": 6.0
+  },
+  {
+    "id": 131,
+    "titulo": "Pelicula 165",
+    "director": "Director 45",
+    "ano": 2016,
+    "duracion": 73,
+    "rating": 2.6
+  },
+  {
+    "id": 132,
+    "titulo": "Pelicula 90",
+    "director": "Director 79",
+    "ano": 2024,
+    "duracion": 196,
+    "rating": 7.3
+  },
+  {
+    "id": 133,
+    "titulo": "Pelicula 112",
+    "director": "Director 27",
+    "ano": 1963,
+    "duracion": 135,
+    "rating": 1.8
+  },
+  {
+    "id": 134,
+    "titulo": "Pelicula 121",
+    "director": "Director 10",
+    "ano": 2008,
+    "duracion": 111,
+    "rating": 3.7
+  },
+  {
+    "id": 135,
+    "titulo": "Pelicula 138",
+    "director": "Director 104",
+    "ano": 2001,
+    "duracion": 171,
+    "rating": 5.2
+  },
+  {
+    "id": 136,
+    "titulo": "Pelicula 45",
+    "director": "Director 130",
+    "ano": 1969,
+    "duracion": 77,
+    "rating": 2.8
+  },
+  {
+    "id": 137,
+    "titulo": "Pelicula 161",
+    "director": "Director 154",
+    "ano": 2008,
+    "duracion": 139,
+    "rating": 4.0
+  },
+  {
+    "id": 138,
+    "titulo": "Pelicula 113",
+    "director": "Director 151",
+    "ano": 1985,
+    "duracion": 148,
+    "rating": 4.8
+  },
+  {
+    "id": 139,
+    "titulo": "Pelicula 18",
+    "director": "Director 150",
+    "ano": 1961,
+    "duracion": 182,
+    "rating": 5.3
+  },
+  {
+    "id": 140,
+    "titulo": "Pelicula 22",
+    "director": "Director 35",
+    "ano": 2001,
+    "duracion": 151,
+    "rating": 1.4
+  },
+  {
+    "id": 141,
+    "titulo": "Pelicula 94",
+    "director": "Director 94",
+    "ano": 1959,
+    "duracion": 189,
+    "rating": 2.6
+  },
+  {
+    "id": 142,
+    "titulo": "Pelicula 30",
+    "director": "Director 67",
+    "ano": 1997,
+    "duracion": 179,
+    "rating": 1.3
+  },
+  {
+    "id": 143,
+    "titulo": "Pelicula 87",
+    "director": "Director 65",
+    "ano": 1998,
+    "duracion": 166,
+    "rating": 6.9
+  },
+  {
+    "id": 144,
+    "titulo": "Pelicula 86",
+    "director": "Director 72",
+    "ano": 2002,
+    "duracion": 72,
+    "rating": 2.5
+  },
+  {
+    "id": 145,
+    "titulo": "Pelicula 115",
+    "director": "Director 19",
+    "ano": 2010,
+    "duracion": 124,
+    "rating": 7.8
+  },
+  {
+    "id": 146,
+    "titulo": "Pelicula 116",
+    "director": "Director 5",
+    "ano": 2008,
+    "duracion": 185,
+    "rating": 4.9
+  },
+  {
+    "id": 147,
+    "titulo": "Pelicula 8",
+    "director": "Director 62",
+    "ano": 2003,
+    "duracion": 123,
+    "rating": 6.7
+  },
+  {
+    "id": 148,
+    "titulo": "Pelicula 110",
+    "director": "Director 60",
+    "ano": 1978,
+    "duracion": 120,
+    "rating": 4.2
+  },
+  {
+    "id": 149,
+    "titulo": "Pelicula 73",
+    "director": "Director 155",
+    "ano": 2010,
+    "duracion": 176,
+    "rating": 6.1
+  },
+  {
+    "id": 150,
+    "titulo": "Pelicula 189",
+    "director": "Director 29",
+    "ano": 1954,
+    "duracion": 120,
+    "rating": 3.4
+  },
+  {
+    "id": 151,
+    "titulo": "Pelicula 52",
+    "director": "Director 199",
+    "ano": 2025,
+    "duracion": 90,
+    "rating": 4.1
+  },
+  {
+    "id": 152,
+    "titulo": "Pelicula 150",
+    "director": "Director 152",
+    "ano": 2025,
+    "duracion": 94,
+    "rating": 6.5
+  },
+  {
+    "id": 153,
+    "titulo": "Pelicula 147",
+    "director": "Director 160",
+    "ano": 2016,
+    "duracion": 187,
+    "rating": 6.2
+  },
+  {
+    "id": 154,
+    "titulo": "Pelicula 111",
+    "director": "Director 38",
+    "ano": 1957,
+    "duracion": 116,
+    "rating": 9.9
+  },
+  {
+    "id": 155,
+    "titulo": "Pelicula 46",
+    "director": "Director 114",
+    "ano": 2013,
+    "duracion": 90,
+    "rating": 8.3
+  },
+  {
+    "id": 156,
+    "titulo": "Pelicula 122",
+    "director": "Director 54",
+    "ano": 1992,
+    "duracion": 111,
+    "rating": 1.2
+  },
+  {
+    "id": 157,
+    "titulo": "Pelicula 134",
+    "director": "Director 71",
+    "ano": 1959,
+    "duracion": 96,
+    "rating": 6.7
+  },
+  {
+    "id": 158,
+    "titulo": "Pelicula 191",
+    "director": "Director 77",
+    "ano": 2011,
+    "duracion": 85,
+    "rating": 5.3
+  },
+  {
+    "id": 159,
+    "titulo": "Pelicula 20",
+    "director": "Director 158",
+    "ano": 2019,
+    "duracion": 167,
+    "rating": 8.4
+  },
+  {
+    "id": 160,
+    "titulo": "Pelicula 78",
+    "director": "Director 42",
+    "ano": 2006,
+    "duracion": 150,
+    "rating": 1.7
+  },
+  {
+    "id": 161,
+    "titulo": "Pelicula 102",
+    "director": "Director 197",
+    "ano": 1998,
+    "duracion": 126,
+    "rating": 10.0
+  },
+  {
+    "id": 162,
+    "titulo": "Pelicula 158",
+    "director": "Director 133",
+    "ano": 1978,
+    "duracion": 83,
+    "rating": 4.2
+  },
+  {
+    "id": 163,
+    "titulo": "Pelicula 85",
+    "director": "Director 80",
+    "ano": 1995,
+    "duracion": 106,
+    "rating": 1.9
+  },
+  {
+    "id": 164,
+    "titulo": "Pelicula 153",
+    "director": "Director 85",
+    "ano": 2011,
+    "duracion": 153,
+    "rating": 9.6
+  },
+  {
+    "id": 165,
+    "titulo": "Pelicula 26",
+    "director": "Director 34",
+    "ano": 2019,
+    "duracion": 158,
+    "rating": 6.1
+  },
+  {
+    "id": 166,
+    "titulo": "Pelicula 96",
+    "director": "Director 107",
+    "ano": 1972,
+    "duracion": 124,
+    "rating": 5.6
+  },
+  {
+    "id": 167,
+    "titulo": "Pelicula 81",
+    "director": "Director 183",
+    "ano": 1993,
+    "duracion": 79,
+    "rating": 6.7
+  },
+  {
+    "id": 168,
+    "titulo": "Pelicula 136",
+    "director": "Director 28",
+    "ano": 1954,
+    "duracion": 162,
+    "rating": 4.7
+  },
+  {
+    "id": 169,
+    "titulo": "Pelicula 117",
+    "director": "Director 74",
+    "ano": 2022,
+    "duracion": 77,
+    "rating": 4.1
+  },
+  {
+    "id": 170,
+    "titulo": "Pelicula 64",
+    "director": "Director 14",
+    "ano": 1968,
+    "duracion": 126,
+    "rating": 2.8
+  },
+  {
+    "id": 171,
+    "titulo": "Pelicula 50",
+    "director": "Director 24",
+    "ano": 1984,
+    "duracion": 150,
+    "rating": 4.2
+  },
+  {
+    "id": 172,
+    "titulo": "Pelicula 56",
+    "director": "Director 69",
+    "ano": 1980,
+    "duracion": 183,
+    "rating": 6.5
+  },
+  {
+    "id": 173,
+    "titulo": "Pelicula 180",
+    "director": "Director 174",
+    "ano": 1997,
+    "duracion": 142,
+    "rating": 3.8
+  },
+  {
+    "id": 174,
+    "titulo": "Pelicula 184",
+    "director": "Director 168",
+    "ano": 1979,
+    "duracion": 124,
+    "rating": 4.9
+  },
+  {
+    "id": 175,
+    "titulo": "Pelicula 5",
+    "director": "Director 87",
+    "ano": 1981,
+    "duracion": 170,
+    "rating": 2.4
+  },
+  {
+    "id": 176,
+    "titulo": "Pelicula 9",
+    "director": "Director 182",
+    "ano": 2000,
+    "duracion": 125,
+    "rating": 5.3
+  },
+  {
+    "id": 177,
+    "titulo": "Pelicula 32",
+    "director": "Director 148",
+    "ano": 1989,
+    "duracion": 100,
+    "rating": 3.6
+  },
+  {
+    "id": 178,
+    "titulo": "Pelicula 89",
+    "director": "Director 161",
+    "ano": 1999,
+    "duracion": 126,
+    "rating": 8.3
+  },
+  {
+    "id": 179,
+    "titulo": "Pelicula 194",
+    "director": "Director 49",
+    "ano": 1982,
+    "duracion": 186,
+    "rating": 3.5
+  },
+  {
+    "id": 180,
+    "titulo": "Pelicula 103",
+    "director": "Director 81",
+    "ano": 1965,
+    "duracion": 121,
+    "rating": 2.7
+  },
+  {
+    "id": 181,
+    "titulo": "Pelicula 200",
+    "director": "Director 187",
+    "ano": 1968,
+    "duracion": 98,
+    "rating": 4.1
+  },
+  {
+    "id": 182,
+    "titulo": "Pelicula 172",
+    "director": "Director 136",
+    "ano": 1987,
+    "duracion": 74,
+    "rating": 2.3
+  },
+  {
+    "id": 183,
+    "titulo": "Pelicula 19",
+    "director": "Director 58",
+    "ano": 2007,
+    "duracion": 132,
+    "rating": 3.2
+  },
+  {
+    "id": 184,
+    "titulo": "Pelicula 99",
+    "director": "Director 17",
+    "ano": 1953,
+    "duracion": 91,
+    "rating": 3.4
+  },
+  {
+    "id": 185,
+    "titulo": "Pelicula 105",
+    "director": "Director 89",
+    "ano": 1980,
+    "duracion": 115,
+    "rating": 3.0
+  },
+  {
+    "id": 186,
+    "titulo": "Pelicula 163",
+    "director": "Director 166",
+    "ano": 1992,
+    "duracion": 152,
+    "rating": 3.0
+  },
+  {
+    "id": 187,
+    "titulo": "Pelicula 60",
+    "director": "Director 95",
+    "ano": 1997,
+    "duracion": 163,
+    "rating": 1.6
+  },
+  {
+    "id": 188,
+    "titulo": "Pelicula 49",
+    "director": "Director 163",
+    "ano": 1967,
+    "duracion": 164,
+    "rating": 6.8
+  },
+  {
+    "id": 189,
+    "titulo": "Pelicula 151",
+    "director": "Director 11",
+    "ano": 1971,
+    "duracion": 88,
+    "rating": 1.8
+  },
+  {
+    "id": 190,
+    "titulo": "Pelicula 4",
+    "director": "Director 40",
+    "ano": 1983,
+    "duracion": 83,
+    "rating": 1.7
+  },
+  {
+    "id": 191,
+    "titulo": "Pelicula 149",
+    "director": "Director 186",
+    "ano": 1961,
+    "duracion": 176,
+    "rating": 7.2
+  },
+  {
+    "id": 192,
+    "titulo": "Pelicula 124",
+    "director": "Director 59",
+    "ano": 1992,
+    "duracion": 118,
+    "rating": 1.2
+  },
+  {
+    "id": 193,
+    "titulo": "Pelicula 65",
+    "director": "Director 117",
+    "ano": 1967,
+    "duracion": 135,
+    "rating": 3.5
+  },
+  {
+    "id": 194,
+    "titulo": "Pelicula 181",
+    "director": "Director 41",
+    "ano": 2024,
+    "duracion": 141,
+    "rating": 2.0
+  },
+  {
+    "id": 195,
+    "titulo": "Pelicula 192",
+    "director": "Director 184",
+    "ano": 1986,
+    "duracion": 152,
+    "rating": 3.4
+  },
+  {
+    "id": 196,
+    "titulo": "Pelicula 7",
+    "director": "Director 102",
+    "ano": 1971,
+    "duracion": 164,
+    "rating": 7.5
+  },
+  {
+    "id": 197,
+    "titulo": "Pelicula 143",
+    "director": "Director 191",
+    "ano": 2006,
+    "duracion": 91,
+    "rating": 4.8
+  },
+  {
+    "id": 198,
+    "titulo": "Pelicula 132",
+    "director": "Director 124",
+    "ano": 1994,
+    "duracion": 198,
+    "rating": 4.2
+  },
+  {
+    "id": 199,
+    "titulo": "Pelicula 155",
+    "director": "Director 200",
+    "ano": 2008,
+    "duracion": 103,
+    "rating": 2.9
+  },
+  {
+    "id": 200,
+    "titulo": "Pelicula 29",
+    "director": "Director 26",
+    "ano": 2021,
+    "duracion": 110,
+    "rating": 7.9
+  }
+]

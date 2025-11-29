@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "titulo": "The Shawshank Redemption",
+    "director": "Frank Darabont",
+    "ano": 1994,
+    "duracion": 142,
+    "rating": 9.3
+  },
+  {
+    "id": 2,
+    "titulo": "The Godfather",
+    "director": "Francis Ford Coppola",
+    "ano": 1972,
+    "duracion": 175,
+    "rating": 9.2
+  },
+  {
+    "id": 3, 
+    "titulo": "The Dark Knight",
+    "director": "Christopher Nolan",
+    "ano": 2008,
+    "duracion": 152,
+    "rating": 9.0
+  },
+  {
+    "id": 4,
+    "titulo": "Pulp Fiction",
+    "director": "Quentin Tarantino",
+    "ano": 1994,
+    "duracion": 154,
+    "rating": 8.9
+  },
+  {
+    "id": 5,
+    "titulo": "Inception",
+    "director": "Christopher Nolan",
+    "ano": 2010,
+    "duracion": 148,
+    "rating": 8.8
+  },
+  {
+    "id": 6,
+    "titulo": "Fight Club",
+    "director": "David Fincher",
+    "ano": 1999,
+    "duracion": 139,
+    "rating": 8.8
+  },
+  {
+    "id": 7,
+    "titulo": "Forrest Gump",
+    "director": "Robert Zemeckis",
+    "ano": 1994,
+    "duracion": 142,
+    "rating": 8.8
+  },
+  {
+    "id": 8,
+    "titulo": "The Matrix",
+    "director": "Lana Wachowski, Lilly Wachowski",
+    "ano": 1999,
+    "duracion": 136,
+    "rating": 8.7
+  },
+  {
+    "id": 9,
+    "titulo": "Goodfellas",
+    "director": "Martin Scorsese",
+    "ano": 1990,
+    "duracion": 146,
+    "rating": 8.7
+  },
+  {
+    "id": 10,
+    "titulo": "Star Wars: Episode V - The Empire Strikes Back",
+    "director": "Irvin Kershner",
+    "ano": 1980,
+    "duracion": 124,
+    "rating": 8.7
+  },
+  {
+    "id": 11,
+    "titulo": "Interstellar",
+    "director": "Christopher Nolan",
+    "ano": 2014,
+    "duracion": 169,
+    "rating": 8.6
+  },
+  {
+    "id": 12,
+    "titulo": "Se7en",
+    "director": "David Fincher",
+    "ano": 1995,
+    "duracion": 127,
+    "rating": 8.6
+  },
+  {
+    "id": 13,
+    "titulo": "The Silence of the Lambs",
+    "director": "Jonathan Demme",
+    "ano": 1991,
+    "duracion": 118,
+    "rating": 8.6
+  },
+  {
+    "id": 14,
+    "titulo": "Saving Private Ryan",
+    "director": "Steven Spielberg",
+    "ano": 1998,
+    "duracion": 169,
+    "rating": 8.6
+  },
+  {
+    "id": 15,
+    "titulo": "The Green Mile",
+    "director": "Frank Darabont",
+    "ano": 1999,
+    "duracion": 189,
+    "rating": 8.6
+  },
+  {
+    "id": 16,
+    "titulo": "Gladiator",
+    "director": "Ridley Scott",
+    "ano": 2000,
+    "duracion": 155,
+    "rating": 8.5
+  },
+  {
+    "id": 17,
+    "titulo": "The Departed",
+    "director": "Martin Scorsese",
+    "ano": 2006,
+    "duracion": 151,
+    "rating": 8.5
+  },
+  {
+    "id": 18,
+    "titulo": "Whiplash",
+    "director": "Damien Chazelle",
+    "ano": 2014,
+    "duracion": 106,
+    "rating": 8.5
+  },
+  {
+    "id": 19,
+    "titulo": "Parasite",
+    "director": "Bong Joon Ho",
+    "ano": 2019,
+    "duracion": 132,
+    "rating": 8.5
+  },
+  {
+    "id": 20,
+    "titulo": "The Lion King",
+    "director": "Roger Allers, Rob Minkoff",
+    "ano": 1994,
+    "duracion": 88,
+    "rating": 8.5
+  }
+]
