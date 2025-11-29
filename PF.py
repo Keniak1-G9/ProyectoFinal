@@ -167,6 +167,7 @@ def busqueda_binaria(lista, campo, x): # ignorar
 
     return [] # pa comparar en el main si no se encontro nada
 
+
 #complejidades empiricas
 def medir_tiempo_memoria(funcion, *args):
     tracemalloc.start()
@@ -450,13 +451,11 @@ def menu_principal():
     print("7. Análisis empírico")
     print("8. Salir")
 
-
 def menu_ordenamiento():
     print("\n--- ORDENAMIENTO ---")
     print("1. Bubble Sort")
     print("2. Quick Sort")
     print("3. Volver")
-
 
 def menu_busqueda():
     print("\n--- BÚSQUEDA ---")
@@ -517,11 +516,6 @@ def buscar_por_titulo(peliculas):
     else:
         print("No se encontraron películas con ese título.")
 
-
-# =========================
-#   REPORTE: MAYOR RATING
-# =========================
-
 def reporte_mayor_rating(peliculas):
     if not peliculas:
         print("No hay películas registradas.")
@@ -536,6 +530,12 @@ def reporte_mayor_rating(peliculas):
         print("-" * 40)
 
 ####
+
+
+
+
+
+
 
 
 
@@ -585,3 +585,12 @@ def main():
                 
 
 main()
+
+
+"""
+    - Integrar con lo que habia hecho Tristan
+        - Solo habra 2 algoritmos: 1 de ordenamiento y 1 de busqueda
+    - Cuando es ordenamiento se muestra toda la lista ordenada?
+    - Cuando es busqueda se muestra especificamente esa entrada?
+    - Quicksort sera removido
+"""
